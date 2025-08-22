@@ -1,5 +1,5 @@
 /**
- * [HtmlScript]{@link https://github.com/anarxyfr/TS-Script}
+ * [TS-Script]{@link https://github.com/anarxyfr/TS-Script}
  *
  * @version 1.0.0
  * @author anarxyfr
